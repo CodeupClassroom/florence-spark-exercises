@@ -6,7 +6,7 @@
 
     ```
     brew tap adoptopenjdk/openjdk
-    brew cask install adoptopenjdk11
+    brew install adoptopenjdk11
     ```
 
 2. Install `pyspark`
